@@ -1,0 +1,90 @@
+html, body {margin:0;padding:0;}
+ul li{list-style-type:none;}
+.header{width:100%;}
+.logo img{width:14.5rem;vertical-align: middle;}
+.mainContent{background:url('../../static/imgs/background.jpg') no-repeat;background-size: cover;background-position-x: center;}
+.searchModel{background:#FFF;background-size: cover;background-position-x: center;width:100%;height:100%;position:fixed;}
+.van-search .van-search__content .van-search__label{color:#0896f0;}
+.van-progress__pivot{display: none;}
+.fontRedColor{color:#FD3F38;}
+.fontGreenColor{color:#01FF0C;}
+.logo{width:60%;height:5.3rem;float:left;vertical-align: middle;line-height:5.3rem;}
+.btnP{width:40%;height:4.19rem;float:left;}
+.btn{width:6.18rem;height:1.77rem;line-height:1.77rem;margin-top: 1.99rem;margin-left: 3rem;font-size:1.06rem;border-radius:0.5rem;}
+.companyTile,.sonTitle{height:3.4rem;line-height:3.4rem;font-size:2.58rem;font-weight:Bold;text-align:left;color:#FFF600;padding-left:1.06rem;}
+.number{color:#fff;font-size:1.72rem;font-weight:400;text-align: left;}
+.stepOne,.stepTwo,.stepThree,.stepFour,.stepFive,.stepSix,.stepSeven,.stepEight{width:100%;}
+.stepOne{height:auto;}
+.stepTwo{height:auto;margin-top: 2rem;}
+.stepThree{height:auto;margin-top: 2rem;}
+.stepFour{height:auto;margin-top: 2rem;}
+.stepFive{height:auto;margin-top: 2rem;}
+.stepSix{height:auto;margin-top: 2rem;}
+.stepSeven{height:auto;margin-top: 2rem;}
+.stepEight{height:auto;margin-top: 2rem;}
+.line{width:11rem;height:2.04rem;font-size:0.74rem;margin-top:1.71rem;font-weight:400;color:rgba(52,105,219,1);background:url('../../static/imgs/line.png')no-repeat;background-size:100%;}
+.title{width:10.54rem;height:2.41rem;line-height:2.1rem;background:url('../../static/imgs/title.png') no-repeat;background-size:100% 100%;
+    margin-left:0.9rem;color:rgba(255,255,255,1);}
+.stepOneContent{width:23.57rem;background:rgba(248,250,247,1);border-radius:1rem;margin:0 auto;padding-top: 0.99rem;}
+.stepThreeContent{width:23rem;background:rgba(248,250,247,1);border-radius:1rem;margin:0 auto;padding-top: 0.99rem;}
+.stepFourContent{height:23.57rem;width:23rem;background:rgba(248,250,247,1);border-radius:1rem;margin:0 auto;padding-top: 0.99rem;}
+.stepFiveContent{height:16.23rem;width:23rem;background:rgba(248,250,247,1);border-radius:1rem;margin:0 auto;padding-top: 0.99rem;}
+.stepSixContent{height:34.8rem;width:23rem;background:rgba(248,250,247,1);border-radius:1rem;margin:0 auto;padding-top: 0.99rem;}
+.stepSevenContent{height:auto;width:23rem;background:rgba(248,250,247,1);border-radius:1rem;margin:0 auto;padding-top: 0.99rem;}
+.stepEightContent{background:rgba(248,250,247,1);border-radius:1rem;margin:0.99rem;padding-top: 0.99rem;}
+.tip{width:85%;margin-top:1.67rem;height:9.5rem;color:#fff;margin: 0.99rem auto;}
+.tipTitle{width:100%;height:1.71rem;text-align: left;}
+.stepOneItem{height:7.86rem;width:7.86rem;float:left;margin:1.3rem auto 0.38rem 2.54rem;background:url('../../static/imgs/GradualCircle.png') no-repeat;background-size:100% 100%;}
+.stepTwoItem{height:7.86rem;width:7.86rem;float:left;margin:1.02rem auto 1.83rem 2.54rem;position:relative;}
+.stepTwoCircle{margin:1.02rem auto;display:block;}
+.stepTwoStype{position:absolute;width:100%;height:0.72rem;line-height:0.72rem;bottom:1.0rem;left:0px;font-size:0.74rem;font-weight:400;color:rgba(52,105,219,1)}
+.stepTwoItem .van-circle .van-circle__text{font-size:1.85rem;font-weight:400;color:rgba(52,105,219,1);}
+.stepTwoLeft1{width:10rem;height:6.8rem;line-height: 6.8rem;text-align:left;padding-left:0.97rem;float:left;}
+.stepTwoRight1{width:11.33rem;height:6.8rem;line-height: 6.8rem;text-align:center;float:left;position: relative;}
+.stepTwoLeft2{width:11.33rem;height:6.8rem;line-height: 6.8rem;text-align:left;padding-left:0.97rem;float:left;position: relative;}
+.stepTwoRight2{width:10rem;height:6.8rem;line-height: 6.8rem;text-align:center;float:left;}
+.DividendSituationP{width:13.33rem;height:5rem;line-height: 6.8rem;text-align:left;padding-left:0.97rem;float:left;position: relative;}
+.DividendSituation{width:13.33rem;height:5rem;line-height: 6.8rem;text-align:center;float:left;position: relative;}
+.DividendSituation2{width:7rem;height:5rem;line-height: 6.8rem;text-align:center;float:left;}
+.stepFour .stepFourContent .rowP .rowpp{
+    width:6.9rem;height:6.9rem;margin-left:0.5rem;margin-top:2.13rem;float:left;
+    background: url('../../static/imgs/GradualCircle.png') no-repeat;background-size: cover;
+}
+.stepFour .stepFourContent .rowP  .rowppp{width:6.9rem;height:6.9rem;margin-left:0.5rem;margin-top:2.13rem;float:left;}
+.otherRowppp{width:13.8rem;height:6.9rem;margin-left:0.5rem;margin-top:2.13rem;float:left;}
+.stepFour .stepFourContent .rowP .rowpp .rowppOne{
+    width:6.9rem;height:3.4rem;color:#FFF600;font-weight:400;text-align:center;position:relative;border-bottom:1px dashed #FFFFFF;     
+}
+.stepFour .stepFourContent .rowP .rowpp .rowppOne p{
+    position:absolute; bottom:0.28rem;padding:0px;margin:0px auto;font-size:1.22rem;font-weight:400;color:rgba(255,246,0,1);text-align: center;width:100%;
+}
+.stepFour .stepFourContent .rowP .rowpp .rowppOne p span{font-size:0.6rem;}
+.stepFour .stepFourContent .rowP .rowpp .rowppTwo{
+    width:6.9rem;height:3.4rem;color:#FFFFFF;font-weight:400;text-align:center;position:relative   
+}
+.stepFour .stepFourContent .rowP .rowpp .rowppTwo p{
+    position:absolute; top:0.28rem;padding:0px;margin:0px;font-size:0.74rem;font-weight:400;color:#FFFFFF;text-align: center;width:100%;
+}
+.rowppp .van-circle .van-circle__text{font-size:1.23rem;font-weight:400;color:rgba(52,105,219,1);}
+
+.fiveItem{
+    background:url('../../static/imgs/GradualCircle.png') no-repeat;
+    background-size: 70%;background-position: center;
+}
+.fiveItem .van-circle__text{color:#EAEA15;font-size:1.5rem;font-weight:400;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
